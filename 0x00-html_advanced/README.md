@@ -5,4 +5,4 @@ In this directory, the HTML markup language (HyperText Markup Language) is pract
 <img src="https://github.com/AlisonQuinter17/holbertonschool-web_front_end/blob/main/0x00-html_advanced/images/Description/mockup.png" class="responsive" width="500px"/>
 
 #### Sitemap of the project
-<img src="https://github.com/AlisonQuinter17/holbertonschool-web_front_end/blob/main/0x00-html_advanced/images/Description/sitemap.png" class="responsive" width="400px"/>
+<img src="https://github.com/AlisonQuinter17/holbertonschool-web_front_end/blob/main/0x00-html_advanced/images/Description/sitemap.png" class="responsive" width="600px"/>
