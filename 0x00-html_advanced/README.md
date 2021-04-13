@@ -1,5 +1,5 @@
 # Advanced HTML
-In this directory, the HTML markup language (HyperText Markup Language) is practiced intensively to reinforce the skills and learn to use it in the best way, for this we put into practice all the basic elements in order to represent the following Mockup.
+- In this directory the HTML markup language (HyperText Markup Language) was intensively practiced to reinforce skills and learn to use it in the best way, for this we put into practice all the basic elements in order to represent the following Mockup, in where we can see the basic parts of a simple web page. 
 
 <div align="center">
   
