@@ -481,7 +481,7 @@ a:active {
     font-family: var(--font-family-title);
     text-transform: var(--section-tagline-transform);
     font-weight: var(--font-weight-bold);
-    margin: var(--section-title-margin);
+    margin: var(--section-tagline-margin);
 }
 
 /* Containers */
@@ -507,7 +507,7 @@ ul.row {
 .col-1-2 {
     width: 50%;
     float: left;
-    padding: 0.5%;
+    padding: 0.5rem;
 }
 
 /* Footer */
