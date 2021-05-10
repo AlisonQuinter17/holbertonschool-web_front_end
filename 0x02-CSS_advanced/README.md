@@ -1,5 +1,5 @@
 # Advanced CSS
-- In this project I develop a basic web page using HTML and CSS, for this I apply most of the elements that CSS provides such as anchors, sections, simple animations, application of variables, among many others, below the result:
+- In this project I develop a basic web page using HTML and CSS, for this I apply properties, selectors, values and many styles that CSS provides to anchors, sections, simple animations, variable handling, among many others, below the result:
 
 <div align="center">
   
